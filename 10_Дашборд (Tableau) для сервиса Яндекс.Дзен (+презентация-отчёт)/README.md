@@ -38,8 +38,9 @@
 Коннекцию к базе данных PostgreSQL, запись данных из базы в .csv-файл, создание дашборда в Tableau Public и создание презентации-отчёта для менеджеров по анализу контента.
 <hr>
 
-Дашборд доступен для просмотра [по этой ссылке](https://public.tableau.com/app/profile/gracheva.daria/viz/gracheva_daria_DA_21_tableau_dashboard/Yandex_Zen_Dashboard).
-Презентация-отчёт [по этой ссылке](https://drive.google.com/file/d/1GPmFVbr3fk-zCmY0vDjNC9Gtle_mvarS/view?usp=sharing)
+## Дашборд доступен для просмотра [по этой ссылке](https://public.tableau.com/app/profile/gracheva.daria/viz/gracheva_daria_DA_21_tableau_dashboard/Yandex_Zen_Dashboard).
+
+##Презентация-отчёт [по этой ссылке](https://drive.google.com/file/d/1GPmFVbr3fk-zCmY0vDjNC9Gtle_mvarS/view?usp=sharing).
 <hr>
 
 ## 🛠️ Используемые инструменты
