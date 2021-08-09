@@ -43,4 +43,4 @@
 <hr>
 
 ## 🛠️ Используемые инструменты:
-`Python`, `Pandas`, `Numpy`, `Matplotlib`, `Seaborn`, `SciPy`, `t-критерий Стьюдента`
+`Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `SciPy`, `t-критерий Стьюдента`
