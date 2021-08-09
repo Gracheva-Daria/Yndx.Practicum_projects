@@ -29,4 +29,4 @@
 <hr>
 
 ## 🛠️ Используемые инструменты
-`Python`, `Pandas`,` NumPy`, `Matplotlib`, `Plotly`, `Math`, `SciPy`,` Z-критерий`
+`Python`, `Pandas`,` NumPy`, `Matplotlib`, `Plotly`, `Math`, `SciPy`, `Z-критерий`
