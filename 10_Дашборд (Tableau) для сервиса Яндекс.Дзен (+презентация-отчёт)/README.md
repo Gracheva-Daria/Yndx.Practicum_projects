@@ -36,7 +36,7 @@
 
 **Важность:** все графики имеют равную важность.
 
-**Согласованный макет дашборда** [имеет такой вид](https://drive.google.com/file/d/1u7tLe8lAOTRPz-imEPj7-knsssnBmOdI/view?usp=sharing)
+**Согласованный макет дашборда** [имеет такой вид](https://drive.google.com/file/d/1u7tLe8lAOTRPz-imEPj7-knsssnBmOdI/view?usp=sharing).
 <hr>
 
 ## ⌛ В ходе выполнения ТЗ произвела
