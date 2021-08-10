@@ -42,4 +42,4 @@
 <hr>
 
 ## 🛠️ Используемые инструменты
-`Python`,` Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `SciPy`, `Math`
+`Python`, `Pandas`, `NumPy`, `Matplotlib`, `Seaborn`, `Plotly`, `SciPy`, `Math`
